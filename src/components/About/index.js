@@ -4,8 +4,10 @@ import profileImage from "../../assets/profile/profile.jpg";
 //Component Definition
 function About() {
   return (
-    <section className="my-5">
-      <h1 id="about">About Me</h1>
+    <section className="my-3">
+      <h1 className="display-6 text-light" id="about">
+        About Me
+      </h1>
       <img
         src={profileImage}
         className="my-2"
@@ -13,7 +15,7 @@ function About() {
         alt="Profile of Gerry Leung"
       />
       <div className="my-2">
-        <p>
+        <p className="text-light">
           I am currently a software developer who is working in the telecommunications space. I was
           working in the telecommunications industry every since I graduated from university. During
           my time here, I eventually thought that I needed to do something different. I decided to
