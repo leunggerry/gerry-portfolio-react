@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Nav from "./components/Nav";
 import About from "./components/About";
+import Portfolio from "./components/Portfolio";
 
 function App() {
   // create states for the tab that is being set
@@ -10,7 +11,12 @@ function App() {
   return (
     <div>
       <Nav currentTab={currentTab} setTab={setTab} />
-      <main className="container">{<About />}</main>
+      <main className="container">
+        {/* Default to the about me section, and dont show the others */}
+        {currentTab === "about" && <About />}
+        {/* show porfoltio if clicked */}
+        {currentTab === "portfolio" && <Portfolio />}
+      </main>
     </div>
   );
 }
