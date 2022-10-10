@@ -6,6 +6,7 @@ import About from "./components/About";
 function App() {
   return (
     <div>
+      <Nav />
       <main>
         <About />
       </main>
