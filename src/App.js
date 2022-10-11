@@ -8,6 +8,9 @@ import ContactForm from "./components/Contact";
 function App() {
   // create states for the tab that is being set
   const [tabs] = useState(["about", "portfolio", "contact", "resume"]);
+  //set the background color
+  const [bgColor, setBgColor] = useState("#6f6b5e");
+  document.body.style.backgroundColor = bgColor;
   // set the state of the tab
   const [currentTab, setTab] = useState(tabs[0]);
   return (
