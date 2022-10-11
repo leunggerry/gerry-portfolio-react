@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Nav from "./components/Nav";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
 
 function App() {
   // create states for the tab that is being set
@@ -17,6 +18,9 @@ function App() {
         {/* show porfoltio if clicked */}
         {currentTab === "portfolio" && <Portfolio />}
       </main>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
