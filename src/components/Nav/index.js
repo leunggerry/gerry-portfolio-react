@@ -17,7 +17,7 @@ function Nav(props) {
             <li className="nav-item">
               <a
                 className={`nav-link ${currentTab === "about" && `active`}`}
-                href="/"
+                href="#about"
                 onClick={() => setTab("about")}
               >
                 About Me
