@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gerry-portfolio-react/static/css/main.3137ccfd.css",
-    "main.js": "/gerry-portfolio-react/static/js/main.d1689992.js",
+    "main.js": "/gerry-portfolio-react/static/js/main.f9afe792.js",
     "static/js/787.b4d203ff.chunk.js": "/gerry-portfolio-react/static/js/787.b4d203ff.chunk.js",
     "static/media/profile.jpg": "/gerry-portfolio-react/static/media/profile.6384c370364cbd947a3d.jpg",
     "static/media/git-social.png": "/gerry-portfolio-react/static/media/git-social.ba1dfbcbeb431c3b72cc.png",
@@ -12,11 +12,11 @@
     "static/media/readme-generator.png": "/gerry-portfolio-react/static/media/readme-generator.7aec35385e5a2233375b.png",
     "index.html": "/gerry-portfolio-react/index.html",
     "main.3137ccfd.css.map": "/gerry-portfolio-react/static/css/main.3137ccfd.css.map",
-    "main.d1689992.js.map": "/gerry-portfolio-react/static/js/main.d1689992.js.map",
+    "main.f9afe792.js.map": "/gerry-portfolio-react/static/js/main.f9afe792.js.map",
     "787.b4d203ff.chunk.js.map": "/gerry-portfolio-react/static/js/787.b4d203ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3137ccfd.css",
-    "static/js/main.d1689992.js"
+    "static/js/main.f9afe792.js"
   ]
 }
