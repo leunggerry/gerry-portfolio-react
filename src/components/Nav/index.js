@@ -1,10 +1,15 @@
-import React from "react";
-
+import React, { useEffect } from "react";
+import { capitalizeFirstLetter } from "../../utils/helpers";
 // Component Definition
 function Nav(props) {
   // Destructure the props coming in
   const { currentTab, setTab } = props;
 
+  //useEffic - a hook to trigger  a re-render on a variable value change. Difference to useState is
+  //          its an API that reflectst he lifecycle methods of the component
+  useEffect(() => {
+    document.title = "Gerry Leung - " + capitalizeFirstLetter(currentTab);
+  }, [currentTab]); // callback function followed by second argument that directs the hook
   return (
     <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
