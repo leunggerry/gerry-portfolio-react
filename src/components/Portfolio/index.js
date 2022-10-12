@@ -31,6 +31,19 @@ function Portfolio() {
       description:
         "This is a daily planner application where you can time block your work day and keep track of what task or meeting you need to complete or attend.",
     },
+    {
+      name: "Team Profile Generator",
+      file: "team-management-system.png",
+      github: "https://github.com/leunggerry/team-profile-generator",
+      description:
+        "This project will generate information about your based on the answers provided. You can enter a manager, engineer and an intern as well as their contact info.",
+    },
+    {
+      name: "README Generator",
+      file: "readme-generator.png",
+      github: "https://github.com/leunggerry/readme_generator",
+      description: "Generate a Markdown document describing your project",
+    },
   ]);
 
   return (
