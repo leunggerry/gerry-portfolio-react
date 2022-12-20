@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an updated portfolio page utilizing React and JSX to create a single page application
+Welcome to my personal portfolio website! Please view some of my projects and my other interests. Many of these projects are built with the Node.js and React. I plan update this repository with new projects and my other interests. Please stay tuned!
 
 [Live Link](https://leunggerry.github.io/gerry-portfolio-react/)
 
