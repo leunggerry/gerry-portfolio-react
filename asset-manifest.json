@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gerry-portfolio-react/static/css/main.3137ccfd.css",
-    "main.js": "/gerry-portfolio-react/static/js/main.f9afe792.js",
-    "static/js/787.b4d203ff.chunk.js": "/gerry-portfolio-react/static/js/787.b4d203ff.chunk.js",
-    "static/media/profile.jpg": "/gerry-portfolio-react/static/media/profile.6384c370364cbd947a3d.jpg",
-    "static/media/git-social.png": "/gerry-portfolio-react/static/media/git-social.ba1dfbcbeb431c3b72cc.png",
-    "static/media/foodDr.png": "/gerry-portfolio-react/static/media/foodDr.4bacb7f8640e4b2ee8f8.png",
-    "static/media/weather-dashboard.png": "/gerry-portfolio-react/static/media/weather-dashboard.7b8f5c94b4b948da59e3.png",
-    "static/media/team-management-system.png": "/gerry-portfolio-react/static/media/team-management-system.8f48d099a06dedaecf18.png",
-    "static/media/work-day-scheduler.png": "/gerry-portfolio-react/static/media/work-day-scheduler.e86b63afb4dce5da5bb3.png",
-    "static/media/readme-generator.png": "/gerry-portfolio-react/static/media/readme-generator.7aec35385e5a2233375b.png",
-    "index.html": "/gerry-portfolio-react/index.html",
-    "main.3137ccfd.css.map": "/gerry-portfolio-react/static/css/main.3137ccfd.css.map",
-    "main.f9afe792.js.map": "/gerry-portfolio-react/static/js/main.f9afe792.js.map",
-    "787.b4d203ff.chunk.js.map": "/gerry-portfolio-react/static/js/787.b4d203ff.chunk.js.map"
+    "main.css": "/gerry-portfolio-website/static/css/main.3137ccfd.css",
+    "main.js": "/gerry-portfolio-website/static/js/main.ca1867b2.js",
+    "static/js/787.b4d203ff.chunk.js": "/gerry-portfolio-website/static/js/787.b4d203ff.chunk.js",
+    "static/media/profile.jpg": "/gerry-portfolio-website/static/media/profile.6384c370364cbd947a3d.jpg",
+    "static/media/git-social.png": "/gerry-portfolio-website/static/media/git-social.ba1dfbcbeb431c3b72cc.png",
+    "static/media/foodDr.png": "/gerry-portfolio-website/static/media/foodDr.4bacb7f8640e4b2ee8f8.png",
+    "static/media/weather-dashboard.png": "/gerry-portfolio-website/static/media/weather-dashboard.7b8f5c94b4b948da59e3.png",
+    "static/media/team-management-system.png": "/gerry-portfolio-website/static/media/team-management-system.8f48d099a06dedaecf18.png",
+    "static/media/work-day-scheduler.png": "/gerry-portfolio-website/static/media/work-day-scheduler.e86b63afb4dce5da5bb3.png",
+    "static/media/readme-generator.png": "/gerry-portfolio-website/static/media/readme-generator.7aec35385e5a2233375b.png",
+    "index.html": "/gerry-portfolio-website/index.html",
+    "main.3137ccfd.css.map": "/gerry-portfolio-website/static/css/main.3137ccfd.css.map",
+    "main.ca1867b2.js.map": "/gerry-portfolio-website/static/js/main.ca1867b2.js.map",
+    "787.b4d203ff.chunk.js.map": "/gerry-portfolio-website/static/js/787.b4d203ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3137ccfd.css",
-    "static/js/main.f9afe792.js"
+    "static/js/main.ca1867b2.js"
   ]
 }
